@@ -1,5 +1,5 @@
 # PaCent
-PaCent algorithm benefits pairwise pattern of stable-isotope unlabelled and labelled samples in data-independent acquisition MS maps for trace proteomics studies. PaCent is developed by [Guomics Lab](http://www.guomics.com).
+PaCent algorithm benefits from the pairwise pattern of stable-isotope unlabelled and labelled samples in data-independent acquisition MS maps for trace proteomics studies. PaCent is developed by [Guomics Lab](http://www.guomics.com).
 PaCent composes of two parts. 
 
 ## Spectra Complement
